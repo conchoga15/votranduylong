@@ -10,12 +10,18 @@ Hiện tại, tôi đang tập trung xây dựng nền tảng vững chắc tron
 🛠️ Bộ Kỹ Năng Cơ Bản (My Stack)
 
 Là sinh viên năm nhất, tôi đang thành thạo các ngôn ngữ và công cụ cốt lõi:
-Loại Kỹ Năng	                  Ngôn Ngữ & Công Cụ	                Mức độ & Ghi chú
-Lập Trình Cốt Lõi	              Python, C/C++	                      Đã hoàn thành môn Lập trình Nhập môn (cấu trúc điều khiển, mảng, hàm).
-Phát triển Web	                HTML5, CSS3	                        Cơ bản, có thể xây dựng trang web tĩnh đơn giản (sử dụng Flexbox/Grid).
-Cơ sở dữ liệu	                  SQL (đang học)	                    Đang làm quen với các truy vấn cơ bản.
-Công cụ	                        Git, GitHub	                        Hiểu rõ quy trình clone, add, commit, push.
-Ngôn ngữ	                      Tiếng Việt (Mẹ đẻ), Tiếng Anh.	    Tự tin đọc hiểu các tài liệu lập trình.
+Loại Kỹ Năng	                  Ngôn Ngữ & Công Cụ	                  Mức độ & Ghi chú
+
+Lập Trình Cốt Lõi	             Python, C/C++	                      Đã hoàn thành môn Lập trình Nhập môn (cấu trúc điều khiển, mảng, hàm).
+
+Phát triển Web	                HTML5, CSS3	                         Cơ bản, có thể xây dựng trang web tĩnh đơn giản (sử dụng Flexbox/Grid).
+
+Cơ sở dữ liệu	                 SQL (đang học)	                     Đang làm quen với các truy vấn cơ bản.
+
+Công cụ	                       Git, GitHub	                        Hiểu rõ quy trình clone, add, commit, push.
+
+Ngôn ngữ	                      Tiếng Việt (Mẹ đẻ), Tiếng Anh.	      Tự tin đọc hiểu các tài liệu lập trình.
+
 
 📬 Liên Hệ
 
